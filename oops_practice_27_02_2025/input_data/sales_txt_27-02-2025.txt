@@ -1,0 +1,5 @@
+gurgaon s-16 80 600000
+mangalore s-17 40 700000
+kormangla iphone-16 101 1000000
+begumpet iphone-19 200 1300000
+ooty iphone-17 1000 5000000
